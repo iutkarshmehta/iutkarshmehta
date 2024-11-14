@@ -16,9 +16,3 @@
 
 - ⚡ Fun fact **Not So funny**
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iutkarshmehta)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iutkarshmehta&" alt="iutkarshmehta" /></p>
-
