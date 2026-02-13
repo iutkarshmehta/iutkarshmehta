@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on [ATS-Resume-Checker](https://github.com/iutkarshmehta/ResumeATS-Checker)
 
-- 🌱 I’m currently learning **SwiftUI , Swift**
-
 - 👨‍💻 All of my projects are available at [https://github.com/iutkarshmehta?tab=repositories](https://github.com/iutkarshmehta?tab=repositories)
 
-- 💬 Ask me about **Flutter, Dart ,HTML, CSS**
+- 💬 Ask me about **iOS, Swift ,SwiftUI, UIkit, Testing, Snapshot Test**
 
-- 📫 How to reach me **codewithutmehta@gmail.com**
+- 📫 How to reach me **utkarshmehta4991@gmail.com**
 
 - ⚡ Fun fact **Not So funny**
 
