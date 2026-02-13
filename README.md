@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/iutkarshmehta" target="blank"><img src="https://img.shields.io/twitter/follow/iutkarshmehta?logo=twitter&style=for-the-badge" alt="iutkarshmehta" /></a> </p>
 
-- 🔭 I’m currently working on [movies-app](https://github.com/iutkarshmehta/movie-app-swiftUI)
+- 🔭 I’m currently working on [movies-app](https://github.com/iutkarshmehta/ResumeATS-Checker)
 
 - 🌱 I’m currently learning **SwiftUI , Swift**
 
